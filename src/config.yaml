@@ -1,0 +1,66 @@
+path: /Users/mehmetbener/Desktop/Projects/Card Robot/input/Card Detector/Dataset Versions/Dataset V4/
+train: 
+  images: Images/train/
+  labels: Labels/train/
+val: 
+  images: Images/val/
+  labels: Labels/val/
+test:
+  images: Images/test/
+  labels: Labels/test/
+
+nc: 52
+
+names:
+  0: 6D
+  1: 6S
+  2: 5H
+  3: 9H
+  4: 7C
+  5: AS
+  6: AD
+  7: 6C
+  8: 8H
+  9: 7D
+  10: 4H
+  11: 7S
+  12: AC
+  13: QH
+  14: JC
+  15: 10D
+  16: 10S
+  17: KS
+  18: KD
+  19: 3H
+  20: 2H
+  21: JS
+  22: JD
+  23: KC
+  24: 10C
+  25: 3C
+  26: 2S
+  27: 2D
+  28: JH
+  29: QC
+  30: 10H
+  31: KH
+  32: 3S
+  33: 3D
+  34: QS
+  35: QD
+  36: 2C
+  37: 7H
+  38: 4S
+  39: 4D
+  40: 9C
+  41: 5C
+  42: 8S
+  43: 8D
+  44: 9S
+  45: 9D
+  46: 4C
+  47: AH
+  48: 8C
+  49: 5S
+  50: 6H
+  51: 5D
